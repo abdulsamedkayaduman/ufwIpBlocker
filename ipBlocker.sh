@@ -16,7 +16,7 @@ if [ "$userExist" = "from" ]; then
 user=$(echo "$line" | awk '{print $9}')
 ip=$(echo "$line" | awk '{print $11}')
 
-sudo ufw deny from $ip to any
+sudo ufw insert 1 deny from $ip to any
 echo "Blocked ip $ip for user $user" >> blockList.txt
 echo "$ip" >> blockIps.txt
 
@@ -32,7 +32,7 @@ if [ "$userExist" = "user" ]; then
 user=$(echo "$line" | awk '{print $11}')
 ip=$(echo "$line" | awk '{print $13}')
 
-sudo ufw deny from $ip to any
+sudo ufw insert 1 deny from $ip to any
 echo "Blocked ip $ip for user $user" >> blockList.txt
 echo "$ip" >> blockIps.txt
 
