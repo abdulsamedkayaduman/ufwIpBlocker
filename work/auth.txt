@@ -1,0 +1,529 @@
+Nov 10 00:09:01 abdulsamed CRON[1266]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 00:09:01 abdulsamed CRON[1266]: pam_unix(cron:session): session closed for user root
+Nov 10 00:17:01 abdulsamed CRON[1346]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 00:17:01 abdulsamed CRON[1346]: pam_unix(cron:session): session closed for user root
+Nov 10 00:39:01 abdulsamed CRON[1396]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 00:39:01 abdulsamed CRON[1396]: pam_unix(cron:session): session closed for user root
+Nov 10 00:57:01 abdulsamed CRON[1492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 00:57:01 abdulsamed CRON[1492]: pam_unix(cron:session): session closed for user root
+Nov 10 01:09:01 abdulsamed CRON[1522]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 01:09:01 abdulsamed CRON[1522]: pam_unix(cron:session): session closed for user root
+Nov 10 01:17:01 abdulsamed CRON[1599]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 01:17:01 abdulsamed CRON[1599]: pam_unix(cron:session): session closed for user root
+Nov 10 01:39:01 abdulsamed CRON[1652]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 01:39:01 abdulsamed CRON[1652]: pam_unix(cron:session): session closed for user root
+Nov 10 02:09:01 abdulsamed CRON[1775]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 02:09:01 abdulsamed CRON[1775]: pam_unix(cron:session): session closed for user root
+Nov 10 02:17:01 abdulsamed CRON[1854]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 02:17:01 abdulsamed CRON[1854]: pam_unix(cron:session): session closed for user root
+Nov 10 02:39:01 abdulsamed CRON[1906]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 02:39:01 abdulsamed CRON[1906]: pam_unix(cron:session): session closed for user root
+Nov 10 03:09:01 abdulsamed CRON[2037]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 03:09:01 abdulsamed CRON[2037]: pam_unix(cron:session): session closed for user root
+Nov 10 03:17:01 abdulsamed CRON[2110]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 03:17:01 abdulsamed CRON[2110]: pam_unix(cron:session): session closed for user root
+Nov 10 03:39:01 abdulsamed CRON[2161]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 03:39:01 abdulsamed CRON[2161]: pam_unix(cron:session): session closed for user root
+Nov 10 04:09:01 abdulsamed CRON[2291]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 04:09:02 abdulsamed CRON[2291]: pam_unix(cron:session): session closed for user root
+Nov 10 04:17:01 abdulsamed CRON[2369]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 04:17:01 abdulsamed CRON[2369]: pam_unix(cron:session): session closed for user root
+Nov 10 04:39:01 abdulsamed CRON[2420]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 04:39:01 abdulsamed CRON[2420]: pam_unix(cron:session): session closed for user root
+Nov 10 05:07:01 abdulsamed CRON[2542]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 05:07:01 abdulsamed runuser: pam_unix(runuser:session): session opened for user nobody by (uid=0)
+Nov 10 05:07:05 abdulsamed runuser: pam_unix(runuser:session): session closed for user nobody
+Nov 10 05:07:05 abdulsamed CRON[2542]: pam_unix(cron:session): session closed for user root
+Nov 10 05:09:01 abdulsamed CRON[2580]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 05:09:01 abdulsamed CRON[2580]: pam_unix(cron:session): session closed for user root
+Nov 10 05:17:01 abdulsamed CRON[2658]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 05:17:01 abdulsamed CRON[2658]: pam_unix(cron:session): session closed for user root
+Nov 10 05:39:01 abdulsamed CRON[2709]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 05:39:01 abdulsamed CRON[2709]: pam_unix(cron:session): session closed for user root
+Nov 10 06:09:01 abdulsamed CRON[2835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 06:09:01 abdulsamed CRON[2835]: pam_unix(cron:session): session closed for user root
+Nov 10 06:17:01 abdulsamed CRON[2910]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 06:17:01 abdulsamed CRON[2910]: pam_unix(cron:session): session closed for user root
+Nov 10 06:25:01 abdulsamed CRON[2931]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 06:25:07 abdulsamed runuser: pam_unix(runuser:session): session opened for user nobody by (uid=0)
+Nov 10 06:25:15 abdulsamed runuser: pam_unix(runuser:session): session closed for user nobody
+Nov 10 06:25:16 abdulsamed CRON[2931]: pam_unix(cron:session): session closed for user root
+Nov 10 06:39:01 abdulsamed CRON[3110]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 06:39:01 abdulsamed CRON[3110]: pam_unix(cron:session): session closed for user root
+Nov 10 06:47:01 abdulsamed CRON[3189]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 06:47:01 abdulsamed CRON[3189]: pam_unix(cron:session): session closed for user root
+Nov 10 07:09:01 abdulsamed CRON[3282]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 07:09:01 abdulsamed CRON[3282]: pam_unix(cron:session): session closed for user root
+Nov 10 07:17:01 abdulsamed CRON[3360]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 07:17:01 abdulsamed CRON[3360]: pam_unix(cron:session): session closed for user root
+Nov 10 07:39:01 abdulsamed CRON[3414]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 07:39:01 abdulsamed CRON[3414]: pam_unix(cron:session): session closed for user root
+Nov 10 08:09:01 abdulsamed CRON[3541]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 08:09:01 abdulsamed CRON[3541]: pam_unix(cron:session): session closed for user root
+Nov 10 08:17:01 abdulsamed CRON[3618]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 08:17:01 abdulsamed CRON[3618]: pam_unix(cron:session): session closed for user root
+Nov 10 08:39:01 abdulsamed CRON[3666]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 08:39:01 abdulsamed CRON[3666]: pam_unix(cron:session): session closed for user root
+Nov 10 09:09:01 abdulsamed CRON[3794]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 09:09:01 abdulsamed CRON[3794]: pam_unix(cron:session): session closed for user root
+Nov 10 09:17:01 abdulsamed CRON[3869]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 09:17:01 abdulsamed CRON[3869]: pam_unix(cron:session): session closed for user root
+Nov 10 09:39:01 abdulsamed CRON[3923]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 09:39:01 abdulsamed CRON[3923]: pam_unix(cron:session): session closed for user root
+Nov 10 10:09:01 abdulsamed CRON[4053]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 10:09:01 abdulsamed CRON[4053]: pam_unix(cron:session): session closed for user root
+Nov 10 10:17:01 abdulsamed CRON[4127]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 10:17:01 abdulsamed CRON[4127]: pam_unix(cron:session): session closed for user root
+Nov 10 10:39:01 abdulsamed CRON[4179]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 10:39:01 abdulsamed CRON[4179]: pam_unix(cron:session): session closed for user root
+Nov 10 11:09:01 abdulsamed CRON[4301]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 11:09:01 abdulsamed CRON[4301]: pam_unix(cron:session): session closed for user root
+Nov 10 11:17:01 abdulsamed CRON[4377]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 11:17:01 abdulsamed CRON[4377]: pam_unix(cron:session): session closed for user root
+Nov 10 11:39:01 abdulsamed CRON[4430]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 11:39:01 abdulsamed CRON[4430]: pam_unix(cron:session): session closed for user root
+Nov 10 12:09:01 abdulsamed CRON[4554]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 12:09:01 abdulsamed CRON[4554]: pam_unix(cron:session): session closed for user root
+Nov 10 12:17:01 abdulsamed CRON[4632]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 12:17:01 abdulsamed CRON[4632]: pam_unix(cron:session): session closed for user root
+Nov 10 12:39:01 abdulsamed CRON[4686]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 12:39:01 abdulsamed CRON[4686]: pam_unix(cron:session): session closed for user root
+Nov 10 13:09:01 abdulsamed CRON[4812]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 13:09:01 abdulsamed CRON[4812]: pam_unix(cron:session): session closed for user root
+Nov 10 13:17:02 abdulsamed CRON[4888]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 13:17:02 abdulsamed CRON[4888]: pam_unix(cron:session): session closed for user root
+Nov 10 13:39:01 abdulsamed CRON[4938]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 13:39:01 abdulsamed CRON[4938]: pam_unix(cron:session): session closed for user root
+Nov 10 14:09:01 abdulsamed CRON[5059]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 14:09:01 abdulsamed CRON[5059]: pam_unix(cron:session): session closed for user root
+Nov 10 14:17:01 abdulsamed CRON[5133]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 14:17:01 abdulsamed CRON[5133]: pam_unix(cron:session): session closed for user root
+Nov 10 14:39:01 abdulsamed CRON[5192]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 14:39:01 abdulsamed CRON[5192]: pam_unix(cron:session): session closed for user root
+Nov 10 15:09:01 abdulsamed CRON[5654]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 15:09:01 abdulsamed CRON[5654]: pam_unix(cron:session): session closed for user root
+Nov 10 15:17:01 abdulsamed CRON[5728]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 15:17:01 abdulsamed CRON[5728]: pam_unix(cron:session): session closed for user root
+Nov 10 15:39:01 abdulsamed CRON[5779]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 15:39:01 abdulsamed CRON[5779]: pam_unix(cron:session): session closed for user root
+Nov 10 16:09:01 abdulsamed CRON[5901]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 16:09:01 abdulsamed CRON[5901]: pam_unix(cron:session): session closed for user root
+Nov 10 16:17:01 abdulsamed CRON[5974]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 16:17:01 abdulsamed CRON[5974]: pam_unix(cron:session): session closed for user root
+Nov 10 16:39:01 abdulsamed CRON[6026]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 16:39:01 abdulsamed CRON[6026]: pam_unix(cron:session): session closed for user root
+Nov 10 17:09:01 abdulsamed CRON[6148]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 17:09:01 abdulsamed CRON[6148]: pam_unix(cron:session): session closed for user root
+Nov 10 17:17:01 abdulsamed CRON[6222]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 17:17:01 abdulsamed CRON[6222]: pam_unix(cron:session): session closed for user root
+Nov 10 17:39:01 abdulsamed CRON[6273]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 17:39:01 abdulsamed CRON[6273]: pam_unix(cron:session): session closed for user root
+Nov 10 18:09:01 abdulsamed CRON[6404]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 18:09:01 abdulsamed CRON[6404]: pam_unix(cron:session): session closed for user root
+Nov 10 18:17:01 abdulsamed CRON[6482]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 18:17:01 abdulsamed CRON[6482]: pam_unix(cron:session): session closed for user root
+Nov 10 18:39:01 abdulsamed CRON[6534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 18:39:01 abdulsamed CRON[6534]: pam_unix(cron:session): session closed for user root
+Nov 10 19:09:01 abdulsamed CRON[6660]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 19:09:01 abdulsamed CRON[6660]: pam_unix(cron:session): session closed for user root
+Nov 10 19:17:01 abdulsamed CRON[6772]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 19:17:01 abdulsamed CRON[6772]: pam_unix(cron:session): session closed for user root
+Nov 10 19:20:06 abdulsamed sudo: pam_unix(sudo:auth): authentication failure; logname=abdulsamed uid=1000 euid=0 tty=/dev/tty1 ruser=abdulsamed rhost=  user=abdulsamed
+Nov 10 19:20:24 abdulsamed sudo: abdulsamed : TTY=tty1 ; PWD=/home/abdulsamed ; USER=root ; COMMAND=/usr/sbin/ufw disable
+Nov 10 19:20:24 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:20:24 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:20:34 abdulsamed sshd[6951]: Accepted password for abdulsamed from 176.240.85.74 port 60603 ssh2
+Nov 10 19:20:34 abdulsamed sshd[6951]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 19:20:34 abdulsamed systemd-logind[689]: New session 1250 of user abdulsamed.
+Nov 10 19:20:37 abdulsamed sshd[6974]: Accepted password for abdulsamed from 176.240.85.74 port 60604 ssh2
+Nov 10 19:20:37 abdulsamed sshd[6974]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 19:20:37 abdulsamed systemd-logind[689]: New session 1251 of user abdulsamed.
+Nov 10 19:21:21 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f auth.log
+Nov 10 19:21:21 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:21:37 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:21:39 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f auth.log
+Nov 10 19:21:39 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:21:55 abdulsamed sshd[7586]: Invalid user ru from 61.175.121.76 port 61898
+Nov 10 19:21:55 abdulsamed sshd[7586]: pam_unix(sshd:auth): check pass; user unknown
+Nov 10 19:21:55 abdulsamed sshd[7586]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=61.175.121.76 
+Nov 10 19:21:57 abdulsamed sshd[7586]: Failed password for invalid user ru from 61.175.121.76 port 61898 ssh2
+Nov 10 19:21:58 abdulsamed sshd[7586]: Received disconnect from 61.175.121.76 port 61898:11: Bye Bye [preauth]
+Nov 10 19:21:58 abdulsamed sshd[7586]: Disconnected from invalid user ru 61.175.121.76 port 61898 [preauth]
+Nov 10 19:22:22 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:22:36 abdulsamed sudo: abdulsamed : TTY=tty1 ; PWD=/home/abdulsamed ; USER=root ; COMMAND=/usr/sbin/ufw enable
+Nov 10 19:22:36 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:22:37 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:38:37 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f auth.log
+Nov 10 19:38:37 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:38:44 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:39:00 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sh ipBlocker.sh
+Nov 10 19:39:00 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:39:00 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/chmod 777 auth.log
+Nov 10 19:39:00 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:39:00 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:39:01 abdulsamed CRON[14121]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 19:39:01 abdulsamed CRON[14121]: pam_unix(cron:session): session closed for user root
+Nov 10 19:39:01 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw deny from 61.175.121.76 to any
+Nov 10 19:39:01 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:39:01 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:39:01 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:39:08 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sh ipBlocker.sh
+Nov 10 19:39:08 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:39:08 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/chmod 777 auth.log
+Nov 10 19:39:08 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:39:08 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:39:09 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw deny from 61.175.121.76 to any
+Nov 10 19:39:09 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:39:09 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:39:10 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:39:20 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Nov 10 19:39:20 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:39:20 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:43:07 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status -v
+Nov 10 19:43:07 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:43:07 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:43:18 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Nov 10 19:43:18 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:43:18 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:43:24 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw
+Nov 10 19:43:24 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:43:24 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:43:27 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw help
+Nov 10 19:43:27 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:43:27 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:43:42 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status verbose
+Nov 10 19:43:42 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:43:42 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:45:46 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f ufw.log
+Nov 10 19:45:46 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:46:16 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:46:30 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f ufw.log.1
+Nov 10 19:46:30 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:47:19 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:47:21 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f ufw.log
+Nov 10 19:47:21 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:47:49 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:47:54 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw help
+Nov 10 19:47:54 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:47:55 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:48:23 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw show
+Nov 10 19:48:23 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:48:23 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:49:07 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f auth.log
+Nov 10 19:49:07 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:58:00 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:58:06 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw disable
+Nov 10 19:58:06 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:58:06 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:58:13 abdulsamed sshd[21082]: error: Received disconnect from 176.55.120.68 port 57071:3: com.jcraft.jsch.JSchException: reject HostKey: 108.61.135.97 [preauth]
+Nov 10 19:58:13 abdulsamed sshd[21082]: Disconnected from 176.55.120.68 port 57071 [preauth]
+Nov 10 19:58:16 abdulsamed sshd[21103]: error: Received disconnect from 176.55.120.68 port 57069:3: com.jcraft.jsch.JSchException: Auth cancel [preauth]
+Nov 10 19:58:16 abdulsamed sshd[21103]: Disconnected from authenticating user abdulsamed 176.55.120.68 port 57069 [preauth]
+Nov 10 19:58:21 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f auth.log
+Nov 10 19:58:21 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 19:58:32 abdulsamed sshd[21203]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=176.55.120.68  user=abdulsamed
+Nov 10 19:58:34 abdulsamed sshd[21203]: Failed password for abdulsamed from 176.55.120.68 port 57312 ssh2
+Nov 10 19:58:35 abdulsamed sshd[21203]: error: Received disconnect from 176.55.120.68 port 57312:3: com.jcraft.jsch.JSchException: Auth cancel [preauth]
+Nov 10 19:58:35 abdulsamed sshd[21203]: Disconnected from authenticating user abdulsamed 176.55.120.68 port 57312 [preauth]
+Nov 10 19:58:54 abdulsamed sshd[21338]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=176.55.120.68  user=abdulsamed
+Nov 10 19:58:56 abdulsamed sshd[21338]: Failed password for abdulsamed from 176.55.120.68 port 57072 ssh2
+Nov 10 19:58:58 abdulsamed sshd[21338]: error: Received disconnect from 176.55.120.68 port 57072:3: com.jcraft.jsch.JSchException: Auth cancel [preauth]
+Nov 10 19:58:58 abdulsamed sshd[21338]: Disconnected from authenticating user abdulsamed 176.55.120.68 port 57072 [preauth]
+Nov 10 19:59:10 abdulsamed sshd[21436]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=176.55.120.68  user=abdulsamed
+Nov 10 19:59:13 abdulsamed sshd[21436]: Failed password for abdulsamed from 176.55.120.68 port 57247 ssh2
+Nov 10 19:59:15 abdulsamed sshd[21436]: error: Received disconnect from 176.55.120.68 port 57247:3: com.jcraft.jsch.JSchException: Auth cancel [preauth]
+Nov 10 19:59:15 abdulsamed sshd[21436]: Disconnected from authenticating user abdulsamed 176.55.120.68 port 57247 [preauth]
+Nov 10 19:59:24 abdulsamed sshd[21523]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=176.55.120.68  user=abdulsamed
+Nov 10 19:59:27 abdulsamed sshd[21523]: Failed password for abdulsamed from 176.55.120.68 port 56709 ssh2
+Nov 10 19:59:29 abdulsamed sshd[21523]: error: Received disconnect from 176.55.120.68 port 56709:3: com.jcraft.jsch.JSchException: Auth cancel [preauth]
+Nov 10 19:59:29 abdulsamed sshd[21523]: Disconnected from authenticating user abdulsamed 176.55.120.68 port 56709 [preauth]
+Nov 10 19:59:34 abdulsamed sshd[21567]: Invalid user sterbenz from 61.175.121.76 port 55482
+Nov 10 19:59:34 abdulsamed sshd[21567]: pam_unix(sshd:auth): check pass; user unknown
+Nov 10 19:59:34 abdulsamed sshd[21567]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=61.175.121.76 
+Nov 10 19:59:36 abdulsamed sshd[21567]: Failed password for invalid user sterbenz from 61.175.121.76 port 55482 ssh2
+Nov 10 19:59:38 abdulsamed sshd[21567]: Received disconnect from 61.175.121.76 port 55482:11: Bye Bye [preauth]
+Nov 10 19:59:38 abdulsamed sshd[21567]: Disconnected from invalid user sterbenz 61.175.121.76 port 55482 [preauth]
+Nov 10 19:59:51 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 19:59:58 abdulsamed sshd[21721]: Accepted password for abdulsamed from 176.240.85.74 port 61051 ssh2
+Nov 10 19:59:58 abdulsamed sshd[21721]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 19:59:58 abdulsamed systemd-logind[689]: New session 1253 of user abdulsamed.
+Nov 10 19:59:59 abdulsamed sshd[21749]: Accepted password for abdulsamed from 176.240.85.74 port 61053 ssh2
+Nov 10 19:59:59 abdulsamed sshd[21749]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 19:59:59 abdulsamed systemd-logind[689]: New session 1254 of user abdulsamed.
+Nov 10 20:00:14 abdulsamed sudo: abdulsamed : TTY=pts/1 ; PWD=/home/abdulsamed ; USER=root ; COMMAND=/usr/bin/apt-get update
+Nov 10 20:00:14 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:00:24 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:00:29 abdulsamed sshd[22316]: error: Received disconnect from 176.55.120.68 port 56667:3: com.jcraft.jsch.JSchException: Auth cancel [preauth]
+Nov 10 20:00:29 abdulsamed sshd[22316]: Disconnected from authenticating user abdulsamed 176.55.120.68 port 56667 [preauth]
+Nov 10 20:00:32 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f auth.log
+Nov 10 20:00:32 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:00:38 abdulsamed sshd[22374]: Accepted password for abdulsamed from 176.55.120.68 port 57247 ssh2
+Nov 10 20:00:38 abdulsamed sshd[22374]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:00:38 abdulsamed systemd-logind[689]: New session 1255 of user abdulsamed.
+Nov 10 20:00:47 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:00:56 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw deny
+Nov 10 20:00:56 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:00:56 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:01:13 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw deny 176.55.120.68
+Nov 10 20:01:13 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:01:13 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:01:30 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw deny from 176.55.120.68
+Nov 10 20:01:31 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:01:31 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:01:38 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw status
+Nov 10 20:01:38 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:01:39 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:01:43 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw enable
+Nov 10 20:01:43 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:01:45 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:01:54 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw status
+Nov 10 20:01:54 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:01:55 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:02:05 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f auth.log
+Nov 10 20:02:05 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:03:19 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:03:21 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw status numbered
+Nov 10 20:03:21 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:03:21 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:03:36 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw delete 33
+Nov 10 20:03:36 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:03:39 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:06:16 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw allow ssh
+Nov 10 20:06:16 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:06:17 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:06:48 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw status numbered
+Nov 10 20:06:48 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:06:48 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:07:40 abdulsamed sshd[24828]: error: Received disconnect from 176.55.120.68 port 56714:3: com.jcraft.jsch.JSchException: Auth cancel [preauth]
+Nov 10 20:07:40 abdulsamed sshd[24828]: Disconnected from authenticating user abdulsamed 176.55.120.68 port 56714 [preauth]
+Nov 10 20:07:58 abdulsamed sshd[24933]: Accepted password for abdulsamed from 176.55.120.68 port 57081 ssh2
+Nov 10 20:07:58 abdulsamed sshd[24933]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:07:58 abdulsamed systemd-logind[689]: New session 1256 of user abdulsamed.
+Nov 10 20:09:01 abdulsamed CRON[25398]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 20:09:01 abdulsamed CRON[25398]: pam_unix(cron:session): session closed for user root
+Nov 10 20:11:09 abdulsamed sshd[26200]: Invalid user user3 from 111.231.82.143 port 44860
+Nov 10 20:11:09 abdulsamed sshd[26200]: pam_unix(sshd:auth): check pass; user unknown
+Nov 10 20:11:09 abdulsamed sshd[26200]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=111.231.82.143 
+Nov 10 20:11:11 abdulsamed sshd[26200]: Failed password for invalid user user3 from 111.231.82.143 port 44860 ssh2
+Nov 10 20:11:12 abdulsamed sshd[26200]: Received disconnect from 111.231.82.143 port 44860:11: Bye Bye [preauth]
+Nov 10 20:11:12 abdulsamed sshd[26200]: Disconnected from invalid user user3 111.231.82.143 port 44860 [preauth]
+Nov 10 20:14:29 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 176.55.120.68 to any
+Nov 10 20:14:29 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:14:29 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:14:33 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw status numbered
+Nov 10 20:14:33 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:14:33 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:15:04 abdulsamed sshd[24933]: pam_unix(sshd:session): session closed for user abdulsamed
+Nov 10 20:15:04 abdulsamed systemd-logind[689]: Session 1256 logged out. Waiting for processes to exit.
+Nov 10 20:15:04 abdulsamed systemd-logind[689]: Removed session 1256.
+Nov 10 20:15:21 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f ufw.log
+Nov 10 20:15:21 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:16:03 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:16:14 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/tail -400f auth.log
+Nov 10 20:16:14 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:16:38 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:17:01 abdulsamed CRON[28437]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 20:17:01 abdulsamed CRON[28437]: pam_unix(cron:session): session closed for user root
+Nov 10 20:17:06 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw status
+Nov 10 20:17:06 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:17:06 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:17:10 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/sbin/ufw status
+Nov 10 20:17:10 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:17:10 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:18:30 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw delete 1
+Nov 10 20:18:30 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:18:33 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:18:36 abdulsamed sshd[29053]: Accepted password for abdulsamed from 176.240.85.74 port 61248 ssh2
+Nov 10 20:18:36 abdulsamed sshd[29053]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:18:36 abdulsamed systemd-logind[689]: New session 1259 of user abdulsamed.
+Nov 10 20:19:40 abdulsamed sshd[29516]: Did not receive identification string from 182.18.180.44 port 35739
+Nov 10 20:21:08 abdulsamed sshd[30036]: Accepted password for abdulsamed from 176.240.85.74 port 61278 ssh2
+Nov 10 20:21:08 abdulsamed sshd[30036]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:21:08 abdulsamed systemd-logind[689]: New session 1260 of user abdulsamed.
+Nov 10 20:21:10 abdulsamed sshd[30036]: pam_unix(sshd:session): session closed for user abdulsamed
+Nov 10 20:21:10 abdulsamed systemd-logind[689]: Session 1260 logged out. Waiting for processes to exit.
+Nov 10 20:21:10 abdulsamed systemd-logind[689]: Removed session 1260.
+Nov 10 20:21:20 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sh ipBlocker.sh
+Nov 10 20:21:20 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:20 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/chmod 777 auth.log
+Nov 10 20:21:20 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:20 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:21:21 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 61.175.121.76 to any
+Nov 10 20:21:21 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:21 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:21:22 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 176.55.120.68 to any
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:21:22 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 176.55.120.68 to any
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:21:22 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 176.55.120.68 to any
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:21:22 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 176.55.120.68 to any
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:21:22 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 61.175.121.76 to any
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:21:22 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 111.231.82.143 to any
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:21:22 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:21:37 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Nov 10 20:21:37 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:37 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:21:46 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Nov 10 20:21:46 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:46 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:21:55 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw delete 2
+Nov 10 20:21:55 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:21:58 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:24:12 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Nov 10 20:24:12 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:24:12 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:24:55 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Nov 10 20:24:55 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:24:55 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:39:01 abdulsamed CRON[4455]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 20:39:01 abdulsamed CRON[4455]: pam_unix(cron:session): session closed for user root
+Nov 10 20:39:41 abdulsamed sshd[4726]: Accepted password for abdulsamed from 176.240.85.74 port 61643 ssh2
+Nov 10 20:39:41 abdulsamed sshd[4726]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:39:41 abdulsamed systemd-logind[689]: New session 1262 of user abdulsamed.
+Nov 10 20:39:42 abdulsamed sshd[4754]: Accepted password for abdulsamed from 176.240.85.74 port 61644 ssh2
+Nov 10 20:39:42 abdulsamed sshd[4754]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:39:42 abdulsamed systemd-logind[689]: New session 1263 of user abdulsamed.
+Nov 10 20:40:34 abdulsamed sudo: abdulsamed : TTY=pts/3 ; PWD=/home/abdulsamed ; USER=root ; COMMAND=/usr/bin/do-release-upgrade
+Nov 10 20:40:34 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:40:38 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:40:49 abdulsamed sudo: abdulsamed : TTY=pts/3 ; PWD=/home/abdulsamed ; USER=root ; COMMAND=/usr/bin/apt-get update
+Nov 10 20:40:49 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:40:53 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:40:59 abdulsamed sudo: abdulsamed : TTY=pts/3 ; PWD=/home/abdulsamed ; USER=root ; COMMAND=/usr/bin/apt-get upgrade
+Nov 10 20:40:59 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:41:58 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:50:29 abdulsamed sshd[25062]: Accepted password for abdulsamed from 176.240.85.74 port 61773 ssh2
+Nov 10 20:50:29 abdulsamed sshd[25062]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:50:29 abdulsamed systemd-logind[689]: New session 1264 of user abdulsamed.
+Nov 10 20:50:34 abdulsamed sshd[25062]: pam_unix(sshd:session): session closed for user abdulsamed
+Nov 10 20:50:34 abdulsamed systemd-logind[689]: Session 1264 logged out. Waiting for processes to exit.
+Nov 10 20:50:34 abdulsamed systemd-logind[689]: Removed session 1264.
+Nov 10 20:51:01 abdulsamed sudo: abdulsamed : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sh ipBlocker.sh
+Nov 10 20:51:01 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:51:01 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/chmod 777 work/auth.txt
+Nov 10 20:51:01 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:51:01 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:51:02 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 61.175.121.76 to any
+Nov 10 20:51:02 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:51:02 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:51:02 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:51:27 abdulsamed sshd[25517]: Accepted password for abdulsamed from 176.240.85.74 port 61783 ssh2
+Nov 10 20:51:27 abdulsamed sshd[25517]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:51:27 abdulsamed systemd-logind[689]: New session 1265 of user abdulsamed.
+Nov 10 20:51:33 abdulsamed sshd[25517]: pam_unix(sshd:session): session closed for user abdulsamed
+Nov 10 20:51:33 abdulsamed systemd-logind[689]: Session 1265 logged out. Waiting for processes to exit.
+Nov 10 20:51:33 abdulsamed systemd-logind[689]: Removed session 1265.
+Nov 10 20:51:35 abdulsamed sudo: abdulsamed : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sh ipBlocker.sh
+Nov 10 20:51:35 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:51:35 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/chmod 777 work/auth.txt
+Nov 10 20:51:35 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:51:35 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:51:36 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 61.175.121.76 to any
+Nov 10 20:51:36 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:51:37 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:51:37 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:53:55 abdulsamed sshd[26517]: Invalid user amaresh from 46.175.243.9 port 39506
+Nov 10 20:53:55 abdulsamed sshd[26517]: pam_unix(sshd:auth): check pass; user unknown
+Nov 10 20:53:55 abdulsamed sshd[26517]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=46.175.243.9 
+Nov 10 20:53:57 abdulsamed sshd[26517]: Failed password for invalid user amaresh from 46.175.243.9 port 39506 ssh2
+Nov 10 20:53:58 abdulsamed sshd[26517]: Received disconnect from 46.175.243.9 port 39506:11: Bye Bye [preauth]
+Nov 10 20:53:58 abdulsamed sshd[26517]: Disconnected from invalid user amaresh 46.175.243.9 port 39506 [preauth]
+Nov 10 20:54:21 abdulsamed sshd[26676]: Accepted password for abdulsamed from 176.240.85.74 port 61812 ssh2
+Nov 10 20:54:21 abdulsamed sshd[26676]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:54:21 abdulsamed systemd-logind[689]: New session 1266 of user abdulsamed.
+Nov 10 20:54:23 abdulsamed sshd[26676]: pam_unix(sshd:session): session closed for user abdulsamed
+Nov 10 20:54:23 abdulsamed systemd-logind[689]: Session 1266 logged out. Waiting for processes to exit.
+Nov 10 20:54:23 abdulsamed systemd-logind[689]: Removed session 1266.
+Nov 10 20:54:24 abdulsamed sudo: abdulsamed : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sh ipBlocker.sh
+Nov 10 20:54:24 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:54:24 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/chmod 777 work/auth.txt
+Nov 10 20:54:24 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:54:24 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:54:25 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 61.175.121.76 to any
+Nov 10 20:54:25 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:54:25 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:54:25 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:57:28 abdulsamed sshd[27899]: Accepted password for abdulsamed from 176.240.85.74 port 61866 ssh2
+Nov 10 20:57:28 abdulsamed sshd[27899]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:57:28 abdulsamed systemd-logind[689]: New session 1267 of user abdulsamed.
+Nov 10 20:57:30 abdulsamed sshd[27899]: pam_unix(sshd:session): session closed for user abdulsamed
+Nov 10 20:57:30 abdulsamed systemd-logind[689]: Session 1267 logged out. Waiting for processes to exit.
+Nov 10 20:57:30 abdulsamed systemd-logind[689]: Removed session 1267.
+Nov 10 20:57:44 abdulsamed sudo: abdulsamed : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sh ipBlocker.sh
+Nov 10 20:57:44 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:57:44 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/chmod 777 work/auth.txt
+Nov 10 20:57:44 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:57:44 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:57:45 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 61.175.121.76 to any
+Nov 10 20:57:45 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:57:45 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:57:45 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:02 abdulsamed sshd[28209]: Accepted password for abdulsamed from 176.240.85.74 port 61871 ssh2
+Nov 10 20:58:02 abdulsamed sshd[28209]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:58:02 abdulsamed systemd-logind[689]: New session 1268 of user abdulsamed.
+Nov 10 20:58:06 abdulsamed sshd[28209]: pam_unix(sshd:session): session closed for user abdulsamed
+Nov 10 20:58:06 abdulsamed systemd-logind[689]: Session 1268 logged out. Waiting for processes to exit.
+Nov 10 20:58:06 abdulsamed systemd-logind[689]: Removed session 1268.
+Nov 10 20:58:08 abdulsamed sudo: abdulsamed : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sh ipBlocker.sh
+Nov 10 20:58:08 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:08 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/chmod 777 work/auth.txt
+Nov 10 20:58:08 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:08 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:09 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 61.175.121.76 to any
+Nov 10 20:58:09 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:09 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:09 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:23 abdulsamed sshd[28441]: Accepted password for abdulsamed from 176.240.85.74 port 61874 ssh2
+Nov 10 20:58:23 abdulsamed sshd[28441]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 20:58:23 abdulsamed systemd-logind[689]: New session 1269 of user abdulsamed.
+Nov 10 20:58:25 abdulsamed sudo: abdulsamed : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sh ipBlocker.sh
+Nov 10 20:58:25 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:25 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/chmod 777 work/auth.txt
+Nov 10 20:58:25 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:25 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:25 abdulsamed sshd[28441]: pam_unix(sshd:session): session closed for user abdulsamed
+Nov 10 20:58:25 abdulsamed systemd-logind[689]: Session 1269 logged out. Waiting for processes to exit.
+Nov 10 20:58:25 abdulsamed systemd-logind[689]: Removed session 1269.
+Nov 10 20:58:26 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 61.175.121.76 to any
+Nov 10 20:58:26 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:26 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:26 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 176.55.120.68 to any
+Nov 10 20:58:26 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:27 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 176.55.120.68 to any
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:27 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 176.55.120.68 to any
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:27 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 176.55.120.68 to any
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:27 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 61.175.121.76 to any
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:27 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 111.231.82.143 to any
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:27 abdulsamed sudo:     root : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 46.175.243.9 to any
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 20:58:27 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Nov 10 21:00:43 abdulsamed sshd[29577]: Accepted password for abdulsamed from 176.240.85.74 port 61897 ssh2
+Nov 10 21:00:43 abdulsamed sshd[29577]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Nov 10 21:00:43 abdulsamed systemd-logind[689]: New session 1270 of user abdulsamed.
+Nov 10 21:00:45 abdulsamed sshd[29577]: pam_unix(sshd:session): session closed for user abdulsamed
+Nov 10 21:00:45 abdulsamed systemd-logind[689]: Session 1270 logged out. Waiting for processes to exit.
+Nov 10 21:00:45 abdulsamed systemd-logind[689]: Removed session 1270.
+Nov 10 21:00:45 abdulsamed sudo: abdulsamed : TTY=pts/3 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sh ipBlocker.sh
+Nov 10 21:00:45 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
