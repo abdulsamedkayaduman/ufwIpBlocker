@@ -9,6 +9,9 @@ authlog="$workPath/authGrep.txt"
 i=0
 spinner="/|\\-/|\\-"
 sleep 1
+
+lineNum=$( wc -l $authlog | awk '{print $1}')
+echo $lineNum
 while IFS= read -r line
 do
  
@@ -18,7 +21,7 @@ if [ "$userExist" = "from" ]; then
 user=$(echo "$line" | awk '{print $9}')
 ip=$(echo "$line" | awk '{print $11}')
 
-sudo ufw insert 1 deny from $ip to any
+sudo ufw insert 1 deny from $ip to any >> $workPath/ufwOut.txt
 echo "Blocked ip $ip for user $user" >> $workPath/blockList.txt
 echo "$ip" >> $workPath/blockIps.txt
 
@@ -34,7 +37,7 @@ if [ "$userExist" = "user" ]; then
 user=$(echo "$line" | awk '{print $11}')
 ip=$(echo "$line" | awk '{print $13}')
 
-sudo ufw insert 1 deny from $ip to any
+sudo ufw insert 1 deny from $ip to any >> $workPath/ufwOut.txt
 echo "Blocked ip $ip for user $user" >> $workPath/blockList.txt
 echo "$ip" >> $workPath/blockIps.txt
 
@@ -47,9 +50,14 @@ fi
 i=$((i+1))
 #echo "INFO :: Blocked ip $ip for user $user"
 
-echo -n "${spinner:$n:1}"
+#echo -n "${spinner:$n:1}"
+#
+#sleep 1
 
-sleep 1 
+result=$(((100*$i)/$lineNum))
+echo "\b\rPercentage $result%. Blocked Ip for $ip user $user. \c\r                                \r."
+#echo $result
+
 done < "$authlog"
 
 echo "Done Ok Done"
