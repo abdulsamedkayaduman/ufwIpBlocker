@@ -7,7 +7,11 @@ authlog="$workPath/auth.txt"
 grep "Failed password for" $authlog | grep -v "COMMAND=" > $workPath/authGrep.txt
 authlog="$workPath/authGrep.txt"
 i=0
-spinner="/|\\-/|\\-"
+
+> $workPath/ufwOut.txt
+> $workPath/blockList.txt
+> $workPath/listUserIp.txt
+> $workPath/listIp.txt
 sleep 1
 
 lineNum=$( wc -l $authlog | awk '{print $1}')
@@ -21,44 +25,43 @@ if [ "$userExist" = "from" ]; then
 user=$(echo "$line" | awk '{print $9}')
 ip=$(echo "$line" | awk '{print $11}')
 
-sudo ufw insert 1 deny from $ip to any >> $workPath/ufwOut.txt
-echo "Blocked ip $ip for user $user" >> $workPath/blockList.txt
-echo "$ip" >> $workPath/blockIps.txt
-
-
-
-#else
-
+#sudo ufw insert 1 deny from $ip to any >> $workPath/ufwOut.txt
+echo "$ip,$user" >> $workPath/listUserIp.txt
+echo "$ip" >> $workPath/listIp.txt
 fi
-
-#if user is unknown
 
 if [ "$userExist" = "user" ]; then
 user=$(echo "$line" | awk '{print $11}')
 ip=$(echo "$line" | awk '{print $13}')
 
-sudo ufw insert 1 deny from $ip to any >> $workPath/ufwOut.txt
-echo "Blocked ip $ip for user $user" >> $workPath/blockList.txt
-echo "$ip" >> $workPath/blockIps.txt
-
-#else
-
+#sudo ufw insert 1 deny from $ip to any >> $workPath/ufwOut.txt
+echo "$ip,$user" >> $workPath/listUserIp.txt
+echo "$ip" >> $workPath/listIp.txt
 fi
-
-#echo "Line Num $i"
-
 i=$((i+1))
-#echo "INFO :: Blocked ip $ip for user $user"
-
-#echo -n "${spinner:$n:1}"
-#
-#sleep 1
-
 result=$(((100*$i)/$lineNum))
-echo "\b\rPercentage $result%. Blocked Ip for $ip user $user. \c\r                                \r."
-#echo $result
+
+echo "\b\rPercentage $result%. File operations."
+
 
 done < "$authlog"
 
-echo "Done Ok Done"
+lineNum=0
+i=0
 
+sort $workPath/listIp.txt | uniq  > $workPath/listIpUniq.txt
+
+
+
+lineNum=$( wc -l $workPath/listIpUniq.txt | awk '{print $1}')
+echo "\n"
+while IFS= read -r line
+do
+	sudo ufw insert 1 deny from $line to any  >> $workPath/ufwOut.txt
+	i=$((i+1))
+    result=$(((100*$i)/$lineNum))
+
+    echo "\b\rPercentage $result%. Blocked Ip for $line "
+done < "$workPath/listIpUniq.txt"
+	
+echo "Done Ok Done"
