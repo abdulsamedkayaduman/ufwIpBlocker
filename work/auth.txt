@@ -1,28 +1,248 @@
-Nov 19 22:19:09 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
-Nov 19 22:19:09 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
-Nov 19 22:19:09 abdulsamed sudo:     root : TTY=pts/1 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sed -n 16244,$p /var/log/auth.log
-Nov 19 22:19:09 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
-Nov 19 22:19:09 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
-Nov 19 22:19:09 abdulsamed sudo:     root : TTY=pts/1 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/chmod 777 /home/abdulsamed/ipBlocker/work/auth.txt
-Nov 19 22:19:09 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
-Nov 19 22:19:09 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
-Nov 19 22:19:10 abdulsamed sudo:     root : TTY=pts/1 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
-Nov 19 22:19:10 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
-Nov 19 22:19:10 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
-Nov 19 22:19:10 abdulsamed sudo:     root : TTY=pts/1 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
-Nov 19 22:19:10 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
-Nov 19 22:19:10 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
-Nov 19 22:19:10 abdulsamed sudo:     root : TTY=pts/1 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
-Nov 19 22:19:10 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
-Nov 19 22:19:10 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
-Nov 19 22:19:10 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
-Nov 19 22:19:18 abdulsamed sudo: abdulsamed : TTY=pts/1 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw
-Nov 19 22:19:18 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
-Nov 19 22:19:18 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
-Nov 19 22:19:24 abdulsamed sudo: abdulsamed : TTY=pts/1 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sh ipBlocker.sh
-Nov 19 22:19:24 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
-Nov 19 22:19:24 abdulsamed sudo:     root : TTY=pts/1 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/wc -l /var/log/auth.log
-Nov 19 22:19:24 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
-Nov 19 22:19:24 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
-Nov 19 22:19:24 abdulsamed sudo:     root : TTY=pts/1 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sed -n 16265,$p /var/log/auth.log
-Nov 19 22:19:24 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Jan 16 20:00:01 vultr-ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 20:00:02 vultr-ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jan 16 20:00:02 vultr-ubuntu sudo:     root : TTY=unknown ; PWD=/root ; USER=root ; COMMAND=/usr/bin/sed -n 15351,$p /var/log/auth.log
+Jan 16 20:00:02 vultr-ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 20:00:02 vultr-ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jan 16 20:00:02 vultr-ubuntu sudo:     root : TTY=unknown ; PWD=/root ; USER=root ; COMMAND=/usr/bin/chmod 777 /home/abdulsamed/ipBlocker/work/auth.txt
+Jan 16 20:00:02 vultr-ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 20:00:02 vultr-ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jan 16 20:00:03 vultr-ubuntu sudo:     root : TTY=unknown ; PWD=/root ; USER=root ; COMMAND=/usr/sbin/ufw status
+Jan 16 20:00:03 vultr-ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 20:00:04 vultr-ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jan 16 20:00:04 vultr-ubuntu sudo:     root : TTY=unknown ; PWD=/root ; USER=root ; COMMAND=/usr/sbin/ufw status
+Jan 16 20:00:04 vultr-ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 20:00:05 vultr-ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jan 16 20:00:05 vultr-ubuntu sudo:     root : TTY=unknown ; PWD=/root ; USER=root ; COMMAND=/usr/sbin/ufw insert 1 deny from 68.116.41.6 to any
+Jan 16 20:00:05 vultr-ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 20:00:09 vultr-ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jan 16 20:00:09 vultr-ubuntu sudo:     root : TTY=unknown ; PWD=/root ; USER=root ; COMMAND=/usr/sbin/ufw status
+Jan 16 20:00:09 vultr-ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 20:00:10 vultr-ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jan 16 20:01:16 vultr-ubuntu sshd[27708]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.72.183.32  user=root
+Jan 16 20:01:18 vultr-ubuntu sshd[27708]: Failed password for root from 36.72.183.32 port 40066 ssh2
+Jan 16 20:01:20 vultr-ubuntu sshd[27708]: Received disconnect from 36.72.183.32 port 40066:11: Bye Bye [preauth]
+Jan 16 20:01:20 vultr-ubuntu sshd[27708]: Disconnected from authenticating user root 36.72.183.32 port 40066 [preauth]
+Jan 16 20:01:40 vultr-ubuntu sshd[27712]: Received disconnect from 222.186.30.76 port 14627:11:  [preauth]
+Jan 16 20:01:40 vultr-ubuntu sshd[27712]: Disconnected from 222.186.30.76 port 14627 [preauth]
+Jan 16 20:03:59 vultr-ubuntu sshd[27733]: Invalid user neil from 70.186.146.138 port 40212
+Jan 16 20:04:00 vultr-ubuntu sshd[27733]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:04:00 vultr-ubuntu sshd[27733]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=70.186.146.138 
+Jan 16 20:04:02 vultr-ubuntu sshd[27733]: Failed password for invalid user neil from 70.186.146.138 port 40212 ssh2
+Jan 16 20:04:03 vultr-ubuntu sshd[27733]: Received disconnect from 70.186.146.138 port 40212:11: Bye Bye [preauth]
+Jan 16 20:04:03 vultr-ubuntu sshd[27733]: Disconnected from invalid user neil 70.186.146.138 port 40212 [preauth]
+Jan 16 20:05:01 vultr-ubuntu CRON[27746]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 16 20:05:02 vultr-ubuntu CRON[27746]: pam_unix(cron:session): session closed for user root
+Jan 16 20:08:44 vultr-ubuntu sshd[27782]: Invalid user web from 49.235.190.177 port 59370
+Jan 16 20:08:44 vultr-ubuntu sshd[27782]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:08:44 vultr-ubuntu sshd[27782]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=49.235.190.177 
+Jan 16 20:08:46 vultr-ubuntu sshd[27782]: Failed password for invalid user web from 49.235.190.177 port 59370 ssh2
+Jan 16 20:08:47 vultr-ubuntu sshd[27782]: Received disconnect from 49.235.190.177 port 59370:11: Bye Bye [preauth]
+Jan 16 20:08:47 vultr-ubuntu sshd[27782]: Disconnected from invalid user web 49.235.190.177 port 59370 [preauth]
+Jan 16 20:09:01 vultr-ubuntu CRON[27787]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 16 20:09:01 vultr-ubuntu CRON[27787]: pam_unix(cron:session): session closed for user root
+Jan 16 20:10:54 vultr-ubuntu sshd[27884]: Accepted password for abdulsamed from 176.240.85.74 port 55770 ssh2
+Jan 16 20:10:54 vultr-ubuntu sshd[27884]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Jan 16 20:10:54 vultr-ubuntu systemd-logind[527]: New session 1848 of user abdulsamed.
+Jan 16 20:10:55 vultr-ubuntu sshd[27909]: Accepted password for abdulsamed from 176.240.85.74 port 55772 ssh2
+Jan 16 20:10:55 vultr-ubuntu sshd[27909]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Jan 16 20:10:56 vultr-ubuntu systemd-logind[527]: New session 1849 of user abdulsamed.
+Jan 16 20:11:55 vultr-ubuntu sshd[28393]: Accepted password for abdulsamed from 176.240.85.74 port 55773 ssh2
+Jan 16 20:11:56 vultr-ubuntu sshd[28393]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Jan 16 20:11:56 vultr-ubuntu systemd-logind[527]: New session 1850 of user abdulsamed.
+Jan 16 20:11:59 vultr-ubuntu sshd[28393]: pam_unix(sshd:session): session closed for user abdulsamed
+Jan 16 20:11:59 vultr-ubuntu systemd-logind[527]: Session 1850 logged out. Waiting for processes to exit.
+Jan 16 20:11:59 vultr-ubuntu systemd-logind[527]: Removed session 1850.
+Jan 16 20:12:15 vultr-ubuntu sshd[28582]: Invalid user darragh from 36.79.254.166 port 34172
+Jan 16 20:12:15 vultr-ubuntu sshd[28582]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:12:15 vultr-ubuntu sshd[28582]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:12:17 vultr-ubuntu sshd[28582]: Failed password for invalid user darragh from 36.79.254.166 port 34172 ssh2
+Jan 16 20:12:19 vultr-ubuntu sshd[28582]: Received disconnect from 36.79.254.166 port 34172:11: Bye Bye [preauth]
+Jan 16 20:12:19 vultr-ubuntu sshd[28582]: Disconnected from invalid user darragh 36.79.254.166 port 34172 [preauth]
+Jan 16 20:12:47 vultr-ubuntu sshd[28776]: Received disconnect from 222.186.30.218 port 23681:11:  [preauth]
+Jan 16 20:12:47 vultr-ubuntu sshd[28776]: Disconnected from 222.186.30.218 port 23681 [preauth]
+Jan 16 20:14:38 vultr-ubuntu sshd[29444]: Invalid user xuan from 36.79.254.166 port 59121
+Jan 16 20:14:38 vultr-ubuntu sshd[29444]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:14:38 vultr-ubuntu sshd[29444]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:14:40 vultr-ubuntu sshd[29444]: Failed password for invalid user xuan from 36.79.254.166 port 59121 ssh2
+Jan 16 20:14:40 vultr-ubuntu sshd[29444]: Received disconnect from 36.79.254.166 port 59121:11: Bye Bye [preauth]
+Jan 16 20:14:40 vultr-ubuntu sshd[29444]: Disconnected from invalid user xuan 36.79.254.166 port 59121 [preauth]
+Jan 16 20:15:01 vultr-ubuntu CRON[29592]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 16 20:15:01 vultr-ubuntu CRON[29592]: pam_unix(cron:session): session closed for user root
+Jan 16 20:15:34 vultr-ubuntu sshd[29789]: Received disconnect from 222.186.15.158 port 49210:11:  [preauth]
+Jan 16 20:15:34 vultr-ubuntu sshd[29789]: Disconnected from 222.186.15.158 port 49210 [preauth]
+Jan 16 20:16:55 vultr-ubuntu sshd[30273]: Invalid user gitadm from 36.79.254.166 port 25343
+Jan 16 20:16:55 vultr-ubuntu sshd[30273]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:16:55 vultr-ubuntu sshd[30273]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:16:57 vultr-ubuntu sshd[30273]: Failed password for invalid user gitadm from 36.79.254.166 port 25343 ssh2
+Jan 16 20:16:59 vultr-ubuntu sshd[30273]: Received disconnect from 36.79.254.166 port 25343:11: Bye Bye [preauth]
+Jan 16 20:16:59 vultr-ubuntu sshd[30273]: Disconnected from invalid user gitadm 36.79.254.166 port 25343 [preauth]
+Jan 16 20:17:01 vultr-ubuntu CRON[30318]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 16 20:17:01 vultr-ubuntu CRON[30318]: pam_unix(cron:session): session closed for user root
+Jan 16 20:18:20 vultr-ubuntu sshd[30779]: Received disconnect from 222.186.31.144 port 45930:11:  [preauth]
+Jan 16 20:18:20 vultr-ubuntu sshd[30779]: Disconnected from 222.186.31.144 port 45930 [preauth]
+Jan 16 20:19:13 vultr-ubuntu sshd[31104]: Invalid user login from 36.79.254.166 port 61433
+Jan 16 20:19:13 vultr-ubuntu sshd[31104]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:19:13 vultr-ubuntu sshd[31104]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:19:16 vultr-ubuntu sshd[31104]: Failed password for invalid user login from 36.79.254.166 port 61433 ssh2
+Jan 16 20:19:16 vultr-ubuntu sshd[31104]: Received disconnect from 36.79.254.166 port 61433:11: Bye Bye [preauth]
+Jan 16 20:19:16 vultr-ubuntu sshd[31104]: Disconnected from invalid user login 36.79.254.166 port 61433 [preauth]
+Jan 16 20:21:32 vultr-ubuntu sshd[31937]: Invalid user test from 36.79.254.166 port 47077
+Jan 16 20:21:32 vultr-ubuntu sshd[31937]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:21:32 vultr-ubuntu sshd[31937]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:21:34 vultr-ubuntu sshd[31937]: Failed password for invalid user test from 36.79.254.166 port 47077 ssh2
+Jan 16 20:21:35 vultr-ubuntu sshd[31937]: Received disconnect from 36.79.254.166 port 47077:11: Bye Bye [preauth]
+Jan 16 20:21:35 vultr-ubuntu sshd[31937]: Disconnected from invalid user test 36.79.254.166 port 47077 [preauth]
+Jan 16 20:23:46 vultr-ubuntu sshd[32744]: Invalid user admin from 36.79.254.166 port 11832
+Jan 16 20:23:46 vultr-ubuntu sshd[32744]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:23:46 vultr-ubuntu sshd[32744]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:23:48 vultr-ubuntu sshd[32744]: Failed password for invalid user admin from 36.79.254.166 port 11832 ssh2
+Jan 16 20:23:50 vultr-ubuntu sshd[32744]: Received disconnect from 36.79.254.166 port 11832:11: Bye Bye [preauth]
+Jan 16 20:23:50 vultr-ubuntu sshd[32744]: Disconnected from invalid user admin 36.79.254.166 port 11832 [preauth]
+Jan 16 20:25:01 vultr-ubuntu CRON[764]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 16 20:25:01 vultr-ubuntu CRON[764]: pam_unix(cron:session): session closed for user root
+Jan 16 20:26:06 vultr-ubuntu sshd[1152]: Invalid user bsnl from 36.72.183.32 port 32845
+Jan 16 20:26:06 vultr-ubuntu sshd[1152]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:26:06 vultr-ubuntu sshd[1152]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.72.183.32 
+Jan 16 20:26:09 vultr-ubuntu sshd[1152]: Failed password for invalid user bsnl from 36.72.183.32 port 32845 ssh2
+Jan 16 20:26:10 vultr-ubuntu sshd[1152]: Received disconnect from 36.72.183.32 port 32845:11: Bye Bye [preauth]
+Jan 16 20:26:10 vultr-ubuntu sshd[1152]: Disconnected from invalid user bsnl 36.72.183.32 port 32845 [preauth]
+Jan 16 20:28:24 vultr-ubuntu sshd[1982]: Invalid user pracownik from 36.72.183.32 port 41152
+Jan 16 20:28:24 vultr-ubuntu sshd[1982]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:28:24 vultr-ubuntu sshd[1982]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.72.183.32 
+Jan 16 20:28:26 vultr-ubuntu sshd[1982]: Failed password for invalid user pracownik from 36.72.183.32 port 41152 ssh2
+Jan 16 20:28:27 vultr-ubuntu sshd[1982]: Received disconnect from 36.72.183.32 port 41152:11: Bye Bye [preauth]
+Jan 16 20:28:27 vultr-ubuntu sshd[1982]: Disconnected from invalid user pracownik 36.72.183.32 port 41152 [preauth]
+Jan 16 20:29:06 vultr-ubuntu sshd[2228]: Received disconnect from 222.186.30.31 port 13345:11:  [preauth]
+Jan 16 20:29:06 vultr-ubuntu sshd[2228]: Disconnected from 222.186.30.31 port 13345 [preauth]
+Jan 16 20:30:42 vultr-ubuntu sshd[2812]: Invalid user muddu from 36.79.254.166 port 2459
+Jan 16 20:30:42 vultr-ubuntu sshd[2812]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:30:42 vultr-ubuntu sshd[2812]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:30:44 vultr-ubuntu sshd[2812]: Failed password for invalid user muddu from 36.79.254.166 port 2459 ssh2
+Jan 16 20:30:45 vultr-ubuntu sshd[2812]: Received disconnect from 36.79.254.166 port 2459:11: Bye Bye [preauth]
+Jan 16 20:30:45 vultr-ubuntu sshd[2812]: Disconnected from invalid user muddu 36.79.254.166 port 2459 [preauth]
+Jan 16 20:33:03 vultr-ubuntu sshd[3658]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166  user=root
+Jan 16 20:33:06 vultr-ubuntu sshd[3658]: Failed password for root from 36.79.254.166 port 6806 ssh2
+Jan 16 20:33:08 vultr-ubuntu sshd[3658]: Received disconnect from 36.79.254.166 port 6806:11: Bye Bye [preauth]
+Jan 16 20:33:08 vultr-ubuntu sshd[3658]: Disconnected from authenticating user root 36.79.254.166 port 6806 [preauth]
+Jan 16 20:35:01 vultr-ubuntu CRON[4377]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 16 20:35:01 vultr-ubuntu CRON[4377]: pam_unix(cron:session): session closed for user root
+Jan 16 20:35:23 vultr-ubuntu sshd[4498]: Invalid user itsupport from 36.79.254.166 port 17360
+Jan 16 20:35:23 vultr-ubuntu sshd[4498]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:35:23 vultr-ubuntu sshd[4498]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:35:23 vultr-ubuntu sshd[4506]: Invalid user ubuntu from 182.61.164.51 port 52036
+Jan 16 20:35:23 vultr-ubuntu sshd[4506]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:35:23 vultr-ubuntu sshd[4506]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=182.61.164.51 
+Jan 16 20:35:25 vultr-ubuntu sshd[4498]: Failed password for invalid user itsupport from 36.79.254.166 port 17360 ssh2
+Jan 16 20:35:25 vultr-ubuntu sshd[4506]: Failed password for invalid user ubuntu from 182.61.164.51 port 52036 ssh2
+Jan 16 20:35:26 vultr-ubuntu sshd[4498]: Received disconnect from 36.79.254.166 port 17360:11: Bye Bye [preauth]
+Jan 16 20:35:26 vultr-ubuntu sshd[4498]: Disconnected from invalid user itsupport 36.79.254.166 port 17360 [preauth]
+Jan 16 20:35:26 vultr-ubuntu sshd[4506]: Received disconnect from 182.61.164.51 port 52036:11: Normal Shutdown, Thank you for playing [preauth]
+Jan 16 20:35:26 vultr-ubuntu sshd[4506]: Disconnected from invalid user ubuntu 182.61.164.51 port 52036 [preauth]
+Jan 16 20:36:04 vultr-ubuntu sshd[4667]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=70.186.146.138  user=root
+Jan 16 20:36:06 vultr-ubuntu sshd[4667]: Failed password for root from 70.186.146.138 port 53794 ssh2
+Jan 16 20:36:06 vultr-ubuntu sshd[4667]: Received disconnect from 70.186.146.138 port 53794:11: Bye Bye [preauth]
+Jan 16 20:36:06 vultr-ubuntu sshd[4667]: Disconnected from authenticating user root 70.186.146.138 port 53794 [preauth]
+Jan 16 20:36:20 vultr-ubuntu sshd[4846]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=182.61.164.51  user=root
+Jan 16 20:36:21 vultr-ubuntu sshd[4846]: Failed password for root from 182.61.164.51 port 33824 ssh2
+Jan 16 20:36:22 vultr-ubuntu sshd[4846]: Received disconnect from 182.61.164.51 port 33824:11: Normal Shutdown, Thank you for playing [preauth]
+Jan 16 20:36:22 vultr-ubuntu sshd[4846]: Disconnected from authenticating user root 182.61.164.51 port 33824 [preauth]
+Jan 16 20:37:17 vultr-ubuntu sshd[5197]: Invalid user apache from 182.61.164.51 port 43834
+Jan 16 20:37:17 vultr-ubuntu sshd[5197]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:37:17 vultr-ubuntu sshd[5197]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=182.61.164.51 
+Jan 16 20:37:20 vultr-ubuntu sshd[5197]: Failed password for invalid user apache from 182.61.164.51 port 43834 ssh2
+Jan 16 20:37:21 vultr-ubuntu sshd[5197]: Received disconnect from 182.61.164.51 port 43834:11: Normal Shutdown, Thank you for playing [preauth]
+Jan 16 20:37:21 vultr-ubuntu sshd[5197]: Disconnected from invalid user apache 182.61.164.51 port 43834 [preauth]
+Jan 16 20:37:45 vultr-ubuntu sshd[5364]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.72.183.32  user=www-data
+Jan 16 20:37:48 vultr-ubuntu sshd[5364]: Failed password for www-data from 36.72.183.32 port 46142 ssh2
+Jan 16 20:37:48 vultr-ubuntu sshd[5364]: Received disconnect from 36.72.183.32 port 46142:11: Bye Bye [preauth]
+Jan 16 20:37:48 vultr-ubuntu sshd[5364]: Disconnected from authenticating user www-data 36.72.183.32 port 46142 [preauth]
+Jan 16 20:39:01 vultr-ubuntu CRON[5844]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 16 20:39:01 vultr-ubuntu CRON[5844]: pam_unix(cron:session): session closed for user root
+Jan 16 20:39:06 vultr-ubuntu sshd[5922]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=218.78.10.183  user=root
+Jan 16 20:39:08 vultr-ubuntu sshd[5922]: Failed password for root from 218.78.10.183 port 44778 ssh2
+Jan 16 20:39:10 vultr-ubuntu sshd[5922]: Received disconnect from 218.78.10.183 port 44778:11: Bye Bye [preauth]
+Jan 16 20:39:10 vultr-ubuntu sshd[5922]: Disconnected from authenticating user root 218.78.10.183 port 44778 [preauth]
+Jan 16 20:40:05 vultr-ubuntu sshd[6293]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.72.183.32  user=root
+Jan 16 20:40:08 vultr-ubuntu sshd[6293]: Failed password for root from 36.72.183.32 port 44807 ssh2
+Jan 16 20:40:09 vultr-ubuntu sshd[6293]: Received disconnect from 36.72.183.32 port 44807:11: Bye Bye [preauth]
+Jan 16 20:40:09 vultr-ubuntu sshd[6293]: Disconnected from authenticating user root 36.72.183.32 port 44807 [preauth]
+Jan 16 20:40:16 vultr-ubuntu sshd[6356]: Received disconnect from 222.186.15.158 port 36151:11:  [preauth]
+Jan 16 20:40:16 vultr-ubuntu sshd[6356]: Disconnected from 222.186.15.158 port 36151 [preauth]
+Jan 16 20:42:23 vultr-ubuntu sshd[7123]: Invalid user gas from 36.72.183.32 port 34516
+Jan 16 20:42:23 vultr-ubuntu sshd[7123]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:42:23 vultr-ubuntu sshd[7123]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.72.183.32 
+Jan 16 20:42:26 vultr-ubuntu sshd[7123]: Failed password for invalid user gas from 36.72.183.32 port 34516 ssh2
+Jan 16 20:42:27 vultr-ubuntu sshd[7123]: Received disconnect from 36.72.183.32 port 34516:11: Bye Bye [preauth]
+Jan 16 20:42:27 vultr-ubuntu sshd[7123]: Disconnected from invalid user gas 36.72.183.32 port 34516 [preauth]
+Jan 16 20:43:06 vultr-ubuntu sshd[7376]: Received disconnect from 222.186.30.145 port 14472:11:  [preauth]
+Jan 16 20:43:06 vultr-ubuntu sshd[7376]: Disconnected from 222.186.30.145 port 14472 [preauth]
+Jan 16 20:44:45 vultr-ubuntu sshd[7975]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.72.183.32  user=root
+Jan 16 20:44:47 vultr-ubuntu sshd[7975]: Failed password for root from 36.72.183.32 port 42820 ssh2
+Jan 16 20:44:49 vultr-ubuntu sshd[7975]: Received disconnect from 36.72.183.32 port 42820:11: Bye Bye [preauth]
+Jan 16 20:44:49 vultr-ubuntu sshd[7975]: Disconnected from authenticating user root 36.72.183.32 port 42820 [preauth]
+Jan 16 20:45:01 vultr-ubuntu CRON[8081]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 16 20:45:01 vultr-ubuntu CRON[8081]: pam_unix(cron:session): session closed for user root
+Jan 16 20:46:59 vultr-ubuntu sshd[8788]: Accepted password for abdulsamed from 176.240.85.74 port 56210 ssh2
+Jan 16 20:46:59 vultr-ubuntu sshd[8788]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Jan 16 20:46:59 vultr-ubuntu systemd-logind[527]: New session 1857 of user abdulsamed.
+Jan 16 20:47:03 vultr-ubuntu sshd[8788]: pam_unix(sshd:session): session closed for user abdulsamed
+Jan 16 20:47:03 vultr-ubuntu systemd-logind[527]: Session 1857 logged out. Waiting for processes to exit.
+Jan 16 20:47:03 vultr-ubuntu systemd-logind[527]: Removed session 1857.
+Jan 16 20:47:09 vultr-ubuntu sshd[8923]: Invalid user report from 36.79.254.166 port 31578
+Jan 16 20:47:09 vultr-ubuntu sshd[8923]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:47:09 vultr-ubuntu sshd[8923]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:47:11 vultr-ubuntu sshd[8923]: Failed password for invalid user report from 36.79.254.166 port 31578 ssh2
+Jan 16 20:47:12 vultr-ubuntu sshd[8923]: Received disconnect from 36.79.254.166 port 31578:11: Bye Bye [preauth]
+Jan 16 20:47:12 vultr-ubuntu sshd[8923]: Disconnected from invalid user report 36.79.254.166 port 31578 [preauth]
+Jan 16 20:48:56 vultr-ubuntu sshd[9574]: Accepted password for abdulsamed from 176.240.85.74 port 56262 ssh2
+Jan 16 20:48:57 vultr-ubuntu sshd[9574]: pam_unix(sshd:session): session opened for user abdulsamed by (uid=0)
+Jan 16 20:48:57 vultr-ubuntu systemd-logind[527]: New session 1858 of user abdulsamed.
+Jan 16 20:49:00 vultr-ubuntu sshd[9574]: pam_unix(sshd:session): session closed for user abdulsamed
+Jan 16 20:49:00 vultr-ubuntu systemd-logind[527]: Session 1858 logged out. Waiting for processes to exit.
+Jan 16 20:49:00 vultr-ubuntu systemd-logind[527]: Removed session 1858.
+Jan 16 20:49:27 vultr-ubuntu sshd[9832]: Invalid user carol from 36.79.254.166 port 10055
+Jan 16 20:49:27 vultr-ubuntu sshd[9832]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:49:27 vultr-ubuntu sshd[9832]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:49:29 vultr-ubuntu sshd[9832]: Failed password for invalid user carol from 36.79.254.166 port 10055 ssh2
+Jan 16 20:49:30 vultr-ubuntu sshd[9832]: Received disconnect from 36.79.254.166 port 10055:11: Bye Bye [preauth]
+Jan 16 20:49:30 vultr-ubuntu sshd[9832]: Disconnected from invalid user carol 36.79.254.166 port 10055 [preauth]
+Jan 16 20:51:49 vultr-ubuntu sshd[10684]: Invalid user grieco from 36.79.254.166 port 62053
+Jan 16 20:51:49 vultr-ubuntu sshd[10684]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:51:49 vultr-ubuntu sshd[10684]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:51:51 vultr-ubuntu sshd[10684]: Failed password for invalid user grieco from 36.79.254.166 port 62053 ssh2
+Jan 16 20:51:52 vultr-ubuntu sshd[10684]: Received disconnect from 36.79.254.166 port 62053:11: Bye Bye [preauth]
+Jan 16 20:51:52 vultr-ubuntu sshd[10684]: Disconnected from invalid user grieco 36.79.254.166 port 62053 [preauth]
+Jan 16 20:54:06 vultr-ubuntu sshd[11517]: Invalid user admin from 36.79.254.166 port 20740
+Jan 16 20:54:06 vultr-ubuntu sshd[11517]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:54:06 vultr-ubuntu sshd[11517]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:54:08 vultr-ubuntu sshd[11517]: Failed password for invalid user admin from 36.79.254.166 port 20740 ssh2
+Jan 16 20:54:08 vultr-ubuntu sshd[11517]: Received disconnect from 36.79.254.166 port 20740:11: Bye Bye [preauth]
+Jan 16 20:54:08 vultr-ubuntu sshd[11517]: Disconnected from invalid user admin 36.79.254.166 port 20740 [preauth]
+Jan 16 20:54:14 vultr-ubuntu sshd[11561]: Received disconnect from 222.186.15.166 port 64145:11:  [preauth]
+Jan 16 20:54:14 vultr-ubuntu sshd[11561]: Disconnected from 222.186.15.166 port 64145 [preauth]
+Jan 16 20:55:01 vultr-ubuntu CRON[11860]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 16 20:55:01 vultr-ubuntu CRON[11860]: pam_unix(cron:session): session closed for user root
+Jan 16 20:56:24 vultr-ubuntu sshd[12364]: Invalid user ftpuser from 36.79.254.166 port 56413
+Jan 16 20:56:24 vultr-ubuntu sshd[12364]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:56:24 vultr-ubuntu sshd[12364]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.79.254.166 
+Jan 16 20:56:26 vultr-ubuntu sshd[12364]: Failed password for invalid user ftpuser from 36.79.254.166 port 56413 ssh2
+Jan 16 20:56:28 vultr-ubuntu sshd[12364]: Received disconnect from 36.79.254.166 port 56413:11: Bye Bye [preauth]
+Jan 16 20:56:28 vultr-ubuntu sshd[12364]: Disconnected from invalid user ftpuser 36.79.254.166 port 56413 [preauth]
+Jan 16 20:56:46 vultr-ubuntu systemd-logind[527]: Removed session 1590.
+Jan 16 20:56:59 vultr-ubuntu sshd[12603]: Received disconnect from 222.186.15.158 port 60441:11:  [preauth]
+Jan 16 20:56:59 vultr-ubuntu sshd[12603]: Disconnected from 222.186.15.158 port 60441 [preauth]
+Jan 16 20:58:45 vultr-ubuntu sshd[13285]: Invalid user eyez from 36.72.183.32 port 55318
+Jan 16 20:58:45 vultr-ubuntu sshd[13285]: pam_unix(sshd:auth): check pass; user unknown
+Jan 16 20:58:45 vultr-ubuntu sshd[13285]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=36.72.183.32 
+Jan 16 20:58:47 vultr-ubuntu sshd[13285]: Failed password for invalid user eyez from 36.72.183.32 port 55318 ssh2
+Jan 16 20:58:47 vultr-ubuntu sshd[13285]: Received disconnect from 36.72.183.32 port 55318:11: Bye Bye [preauth]
+Jan 16 20:58:47 vultr-ubuntu sshd[13285]: Disconnected from invalid user eyez 36.72.183.32 port 55318 [preauth]
+Jan 16 20:59:45 vultr-ubuntu sshd[13651]: Received disconnect from 222.186.42.155 port 26522:11:  [preauth]
+Jan 16 20:59:45 vultr-ubuntu sshd[13651]: Disconnected from 222.186.42.155 port 26522 [preauth]
+Jan 16 21:00:01 vultr-ubuntu CRON[13757]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jan 16 21:00:01 vultr-ubuntu CRON[13757]: pam_unix(cron:session): session closed for user root
+Jan 16 21:00:01 vultr-ubuntu sudo:     root : TTY=unknown ; PWD=/root ; USER=root ; COMMAND=/usr/bin/wc -l /var/log/auth.log
+Jan 16 21:00:01 vultr-ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Jan 16 21:00:01 vultr-ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jan 16 21:00:01 vultr-ubuntu sudo:     root : TTY=unknown ; PWD=/root ; USER=root ; COMMAND=/usr/bin/sed -n 15436,$p /var/log/auth.log
+Jan 16 21:00:01 vultr-ubuntu sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
