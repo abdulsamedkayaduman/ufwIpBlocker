@@ -16,49 +16,49 @@ lineNum=$( wc -l $authlog | awk '{print $1}')
 echo $lineNum
 while IFS= read -r line
 do
- 
-userExist=$(echo "$line" | awk '{print $10}')
-#if user exist in machine
-if [ "$userExist" = "from" ]; then
-user=$(echo "$line" | awk '{print $9}')
-ip=$(echo "$line" | awk '{print $11}')
 
-sudo ufw insert 1 deny from $ip to any >> $workPath/ufwOut.txt
-echo "$ip,$user" >> $workPath/blockList.txt
- 
+    userExist=$(echo "$line" | awk '{print $10}')
+    #if user exist in machine
+    if [ "$userExist" = "from" ]; then
+        user=$(echo "$line" | awk '{print $9}')
+        ip=$(echo "$line" | awk '{print $11}')
 
+        sudo ufw insert 1 deny from $ip to any >> $workPath/ufwOut.txt
+        echo "$ip,$user" >> $workPath/blockList.txt
 
 
-#else
 
-fi
 
-#if user is unknown
+        #else
 
-if [ "$userExist" = "user" ]; then
-user=$(echo "$line" | awk '{print $11}')
-ip=$(echo "$line" | awk '{print $13}')
+    fi
 
-sudo ufw insert 1 deny from $ip to any >> $workPath/ufwOut.txt
-echo "$ip,$user" >> $workPath/blockList.txt
- 
+    #if user is unknown
 
-#else
+    if [ "$userExist" = "user" ]; then
+        user=$(echo "$line" | awk '{print $11}')
+        ip=$(echo "$line" | awk '{print $13}')
 
-fi
+        sudo ufw insert 1 deny from $ip to any >> $workPath/ufwOut.txt
+        echo "$ip,$user" >> $workPath/blockList.txt
 
-#echo "Line Num $i"
 
-i=$((i+1))
-#echo "INFO :: Blocked ip $ip for user $user"
+        #else
 
-#echo -n "${spinner:$n:1}"
-#
-#sleep 1
+    fi
 
-result=$(((100*$i)/$lineNum))
-echo "\b\rPercentage $result%. Blocked Ip for $ip user $user. \c\r"
-#echo $result
+    #echo "Line Num $i"
+
+    i=$((i+1))
+    #echo "INFO :: Blocked ip $ip for user $user"
+
+    #echo -n "${spinner:$n:1}"
+    #
+    #sleep 1
+
+    result=$(((100*$i)/$lineNum))
+    echo "\b\rPercentage $result%. Blocked Ip for $ip user $user. \c\r"
+    #echo $result
 
 done < "$authlog"
 

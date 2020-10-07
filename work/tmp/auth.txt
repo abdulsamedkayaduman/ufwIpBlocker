@@ -1,0 +1,42 @@
+Feb  3 22:16:58 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:16:58 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:16:58 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sed -n 1,$p /var/log/auth.log
+Feb  3 22:16:58 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:16:58 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:16:58 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/chmod 777 /home/abdulsamed/ipBlocker/work/auth.txt
+Feb  3 22:16:58 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:16:58 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:16:59 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Feb  3 22:16:59 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:16:59 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:16:59 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Feb  3 22:16:59 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:17:00 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:17:01 abdulsamed CRON[4080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Feb  3 22:17:01 abdulsamed CRON[4080]: pam_unix(cron:session): session closed for user root
+Feb  3 22:17:11 abdulsamed sudo:     root : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Feb  3 22:17:11 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:17:11 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:17:11 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:18:04 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Feb  3 22:18:04 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:18:04 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:18:08 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status numbered
+Feb  3 22:18:08 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:18:08 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:18:42 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/tail -400f /var/log/auth.log
+Feb  3 22:18:42 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:19:15 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:20:01 abdulsamed CRON[8000]: pam_unix(cron:session): session opened for user smmsp by (uid=0)
+Feb  3 22:20:24 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Feb  3 22:20:24 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:20:24 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:20:27 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/sbin/ufw status
+Feb  3 22:20:27 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:20:28 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:21:01 abdulsamed CRON[8000]: pam_unix(cron:session): session closed for user smmsp
+Feb  3 22:21:08 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/wc -l /var/log/auth.log
+Feb  3 22:21:08 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
+Feb  3 22:21:08 abdulsamed sudo: pam_unix(sudo:session): session closed for user root
+Feb  3 22:21:08 abdulsamed sudo: abdulsamed : TTY=pts/0 ; PWD=/home/abdulsamed/ipBlocker ; USER=root ; COMMAND=/usr/bin/sed -n 7182,$p /var/log/auth.log
+Feb  3 22:21:08 abdulsamed sudo: pam_unix(sudo:session): session opened for user root by abdulsamed(uid=0)
